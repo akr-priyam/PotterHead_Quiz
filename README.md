@@ -1,7 +1,7 @@
 <h1 align="center" >Potterhead CLI Quiz</h1>
 <p align="center">
   <a href="https://github.com/dipsam/PotterHead_Quiz">
-    <img src="images/head_image.png" alt="Logo" width="400" height="200">
+    <img src="images/head_image.jpg" alt="Logo" width="300" height="200">
   </a>
 </p>
 
